@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97BC3877-BCD6-4DFF-87B0-19F02539E089}|CapaDatos\\CapaDatos.csproj|c:\\users\\j4gu4\\source\\repos\\ventabot\\capadatos\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BC3877-BCD6-4DFF-87B0-19F02539E089}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73005D6B-6D1D-46F0-881B-983986D8D88F}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\capapresentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73005D6B-6D1D-46F0-881B-983986D8D88F}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BC3877-BCD6-4DFF-87B0-19F02539E089}|CapaDatos\\CapaDatos.csproj|C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\capadatos\\dtrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BC3877-BCD6-4DFF-87B0-19F02539E089}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dtrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87C1669-F501-4F90-B9F6-039F776BF054}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\capanegocio\\ntrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87C1669-F501-4F90-B9F6-039F776BF054}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ntrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BC3877-BCD6-4DFF-87B0-19F02539E089}|CapaDatos\\CapaDatos.csproj|C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\capadatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{97BC3877-BCD6-4DFF-87B0-19F02539E089}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87C1669-F501-4F90-B9F6-039F776BF054}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\capanegocio\\ncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87C1669-F501-4F90-B9F6-039F776BF054}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73005D6B-6D1D-46F0-881B-983986D8D88F}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\capapresentacion\\frmvistaclienteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73005D6B-6D1D-46F0-881B-983986D8D88F}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmvistaclienteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73005D6B-6D1D-46F0-881B-983986D8D88F}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73005D6B-6D1D-46F0-881B-983986D8D88F}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\VentaBot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VentaBot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\VentaBot\\BotTelegram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VentaBot\\BotTelegram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaDatos\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaDatos\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "CapaDatos\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:34:05.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dtrabajador.cs",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaDatos\\Dtrabajador.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Dtrabajador.cs",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaDatos\\Dtrabajador.cs",
+              "RelativeToolTip": "CapaDatos\\Dtrabajador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:32:59.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmVenta.cs",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaPresentacion\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmVenta.cs",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaPresentacion\\FrmVenta.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmVenta.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAAAowJ8BAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:51:42.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\VentaBot\\Program.cs",
+              "RelativeDocumentMoniker": "VentaBot\\Program.cs",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\VentaBot\\Program.cs",
+              "RelativeToolTip": "VentaBot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:36:59.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BotTelegram.cs",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\VentaBot\\BotTelegram.cs",
+              "RelativeDocumentMoniker": "VentaBot\\BotTelegram.cs",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\VentaBot\\BotTelegram.cs",
+              "RelativeToolTip": "VentaBot\\BotTelegram.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwHQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:35:28.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ntrabajador.cs",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaNegocio\\Ntrabajador.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Ntrabajador.cs",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaNegocio\\Ntrabajador.cs",
+              "RelativeToolTip": "CapaNegocio\\Ntrabajador.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:30:44.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaDatos\\app.config",
+              "RelativeDocumentMoniker": "CapaDatos\\app.config",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaDatos\\app.config",
+              "RelativeToolTip": "CapaDatos\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-22T01:59:46.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ncliente.cs",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaNegocio\\Ncliente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Ncliente.cs",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaNegocio\\Ncliente.cs",
+              "RelativeToolTip": "CapaNegocio\\Ncliente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:38:34.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmVistaClienteVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaPresentacion\\FrmVistaClienteVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmVistaClienteVenta.cs",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaPresentacion\\FrmVistaClienteVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmVistaClienteVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:37:55.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaPresentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\j4gu4\\Source\\Repos\\VentaBot\\CapaPresentacion\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:30:43.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
